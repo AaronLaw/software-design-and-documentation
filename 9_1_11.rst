@@ -1,0 +1,18 @@
+September 1st, 2011
+===================
+
+ * 2 sections combined because larger classes are better pedagogy.
+ * Syllabus is a contract [of adhesion].
+ * Documentation
+
+   * **UML** - graphical language
+   * "Vision statements" (drug induced?)
+ * Software Design
+
+   * Design patterns (GoF?)
+ * "Agile form of the unified process" (para ingles?)
+ * See the syllabus for a list of worst practices (they're mislabeled as best
+   practices, not sure why).
+ * Ruby on Rails is an object oriented language. (At this point your eyes
+   should be bloodshot).
+ *
