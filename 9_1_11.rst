@@ -1,6 +1,8 @@
 September 1st, 2011
 ===================
 
+First day of class.
+
  * 2 sections combined because larger classes are better pedagogy.
  * Syllabus is a contract [of adhesion].
  * Documentation
@@ -15,4 +17,16 @@ September 1st, 2011
    practices, not sure why).
  * Ruby on Rails is an object oriented language. (At this point your eyes
    should be bloodshot).
- *
+ * Professors
+
+   * Struman
+
+     * Director of technology for a school district
+     * Technical writer
+     * Not a programmer
+   * Kuchera
+
+     * Manager
+     * CS graduate
+     * "Performance and database related items" (Oh my.)
+     * Pushing "Coupling, cohesion, polymorphism"
