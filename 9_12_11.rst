@@ -1,0 +1,26 @@
+September 12th, 2011
+====================
+
+Third class session, second I've attended.  Second official class was missed
+due to DjangoCon.
+
+Doing pitches for class projects, I gave one in the first class on a "package
+status" website for PyPy:
+
+* Something for tracking fraternity rush students.
+
+  * PHP
+* Tournament management program, for gaming club
+* Web app for new bands to connect with club owners and fans
+* making a new graphical programming language
+
+Now picking groups for projects.
+
+Group selected:
+
+Going to build a room management system for the campus. jQuery + Django,
+PostgreSQL, git. Need to look into whether GIS is appropriate for handling maps
+of floors (TODO: contact jbronn or malcolm). One of my group members insists I
+invented the internet, rolling with it.
+
+Motto: Never refresh, never surrender.
