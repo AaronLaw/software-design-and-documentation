@@ -1,0 +1,29 @@
+September 15th, 2011
+====================
+
+Class number three.  In the previous class each group created a shield (a crest
+displaying: strengths, challenges, technologies, and strategies).  In this
+class we are (apparently) presenting them as well the status of the group
+meetings we held this week.
+
+Professor is currently explaining how email is the devil and you need project
+websites instead.  She's pitching JIRA so I think either she's a coke fiend of
+Jesper paid her off.
+
+"Subversion is fine for this class, and gives you real world experience" (We're
+using git)
+
+Discussion about automation and unittest.  We already have one click deploys,
+so that's pretty awesome (thanks ep.io).  No unit tests yet, but we'll get
+there (once I start writing view code).  I started sphinx docs for this, so I
+might also put those on readthedocs.org (with post-commit hook) for more epic
+automation.  We now have a post-commit hook to deploy.
+
+We're being told to use design patterns.  But not to design out application
+around one.  I pray to god MTV counts, or Active Record.  "You can go back and
+introduce a design pattern if it's appropriate."  Apparently Active Record does
+count, because I just used it as an answer to question on if anyone has chosen
+a design pattern.  She's now suggesting the "mock" pattern, might use Michael
+Foord's ``mock`` library, for some more epicness.
+
+We [the team] need to come up with 4 metrics on which to evaluate each other.
